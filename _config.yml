@@ -2,7 +2,7 @@
 title: Nabeel Zewail
 url: https://
 paginate: 1
-baseurl: ""
+baseurl: "https://nzewail.github.io/"
 permalink: :title/
 
 kramdown:
@@ -37,5 +37,5 @@ sass:
 
 author:
   name: Nabeel Zewail
-  url: https://github.com/nzewail
+  url: https://www.linkedin.com/in/nzewail
   email: nabeel@fastmail.com
