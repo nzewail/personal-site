@@ -1,7 +1,6 @@
 # Setup
-title: Noir
-tagline: a dark mode friendly Jekyll theme
-url: https://noir.essentialenemy.com
+title: Nabeel Zewail
+url: https://
 paginate: 1
 baseurl: ""
 permalink: :title/
@@ -25,6 +24,7 @@ exclude:
   - Gemfile.lock
   - LICENSE.md
   - README.md
+  - styles.md
 
 sass:
   sass_dir: _sass
@@ -35,13 +35,7 @@ sass:
 # Replace this value and uncomment to enable Google Analytics tracking
 # ga_analytics: UA-000000-0
 
-# Specify the author for blog posts
 author:
-  name: Victor Johnson
-  url: https://twitter.com/essentialenemy
-  email: me@essentialenemy.com
-
-# Custom vars
-version: 1.3.0
-github:
-  repo: https://github.com/essentialenemy/noir
+  name: Nabeel Zewail
+  url: https://github.com/nzewail
+  email: nabeel@fastmail.com
