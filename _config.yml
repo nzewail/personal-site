@@ -1,8 +1,8 @@
 # Setup
 title: Nabeel Zewail
-url: https://
+url: https://nzewail.github.io
 paginate: 1
-baseurl: "https://nzewail.github.io/"
+baseurl: ""
 permalink: :title/
 
 kramdown:
