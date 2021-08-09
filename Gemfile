@@ -5,5 +5,4 @@ gem "jekyll-gist"
 gem "jekyll-paginate"
 gem "jekyll-seo-tag"
 gem "jekyll-target-blank"
-gem "nokogiri", ">= 1.11.0.rc4"
-
+gem "nokogiri", ">= 1.11.4"
